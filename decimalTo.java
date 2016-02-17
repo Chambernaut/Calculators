@@ -5,7 +5,6 @@ public class decimalTo
   public static void main(String [] args)
   {
     System.out.println(toHexadecimal(48879));
-
   }
 
   public static String toBinary(int caseFile)
